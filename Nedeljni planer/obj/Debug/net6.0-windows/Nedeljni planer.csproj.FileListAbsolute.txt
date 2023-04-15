@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\bin\Debug\net6.0-windows\Nedeljni planer.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\bin\Debug\net6.0-windows\Nedeljni planer.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\bin\Debug\net6.0-windows\Nedeljni planer.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\bin\Debug\net6.0-windows\Nedeljni planer.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\bin\Debug\net6.0-windows\Nedeljni planer.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\Nedeljni planer.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\Nedeljni_planer.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\Nedeljni planer.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\Nedeljni planer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\Nedeljni planer.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\Nedeljni planer.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\Nedeljni planer.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\Nedeljni planer.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\refint\Nedeljni planer.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\Nedeljni planer.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\Nedeljni planer.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Nedeljni planer\Nedeljni planer\obj\Debug\net6.0-windows\ref\Nedeljni planer.dll
